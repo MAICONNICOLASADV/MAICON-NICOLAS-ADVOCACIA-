@@ -83,6 +83,22 @@ const serviceData = {
         <li>✔ <strong>Pensão por Morte</strong> e Revisão de Valor de Aposentadoria.</li>
       </ul>
     `
+  },
+  criminal: {
+    tag: 'Defesa Criminal & Processo Penal',
+    title: 'Direito Criminal',
+    subtitle: 'Defesa técnica especializada em inquéritos, flagrantes, audiências de custódia e processos criminais.',
+    serviceValue: 'Direito Criminal',
+    content: `
+      <p>Atuação estratégica e combativa na defesa dos seus direitos e garantias fundamentais em todas as fases da persecução penal:</p>
+      <br>
+      <ul style="list-style: none; padding-left: 0; display: flex; flex-direction: column; gap: 8px;">
+        <li>✔ <strong>Acompanhamento em Delegacias</strong> e Flagrantes (Plantão 24h).</li>
+        <li>✔ <strong>Audiência de Custódia</strong> e Pedidos de Liberdade Provisória.</li>
+        <li>✔ <strong>Habeas Corpus</strong> e Revogação de Prisão Preventiva.</li>
+        <li>✔ <strong>Defesa em Processos Criminais</strong>, Recursos e Tribunal do Júri.</li>
+      </ul>
+    `
   }
 };
 
